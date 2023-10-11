@@ -23,7 +23,7 @@ For this project, the following Python libraries were used:
 - Warnings
 
 ## Executing the code
-The code is available as jupyter notebooks, available under /Achievement6/.
+The code is available as jupyter notebooks, available under /Achievement6/Scripts.
 
 To launch the notebook, open terminal and run the command:
 
