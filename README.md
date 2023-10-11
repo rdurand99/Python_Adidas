@@ -4,3 +4,4 @@ This data analytics project was conducted in Python and Tableau for the CareerFo
 ## Objective
 <img src="(https://github.com/rdurand99/Python_Adidas/assets/136758167/50b79a0a-d9d8-47e7-b9bb-1d4dbca29192" width=100 height=100>
 
+![adidas logo](https://github.com/rdurand99/Python_Adidas/assets/136758167/cff0d76a-9c2d-48f6-9b49-7f3bdc6e9a90)
