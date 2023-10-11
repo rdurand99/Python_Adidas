@@ -35,3 +35,5 @@ To launch the notebook, open terminal and run the command:
 
 ## Resources
 Relevant resources will be posted here.
+
+You can view the [Tableau](https://public.tableau.com/views/AdidasSalesPerformanceBetween2020-2021/AdidasSales?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link) here.
