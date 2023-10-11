@@ -22,7 +22,6 @@ For this project, the following Python libraries were used:
 - Folium
 - Quandl
 - Statsmodels
-- Warnings
 
 ## Executing the code
 The code is available as jupyter notebooks, available under /Achievement6/Scripts.
