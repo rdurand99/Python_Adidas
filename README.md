@@ -9,7 +9,7 @@ adidas is an athletic apparel and footwear company. They are looking at sales tr
 ## Data
 The data is sourced from [Kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data).
 
-You can find visualizations on [Tableau](https://public.tableau.com/views/AdidasSalesPerformanceBetween2020-2021/AdidasSales?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link).
+You can find my visualizations on [Tableau](https://public.tableau.com/views/AdidasSalesPerformanceBetween2020-2021/AdidasSales?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link).
 
 ## Tools
 For this project, the following Python libraries were used:
